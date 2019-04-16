@@ -5,4 +5,5 @@ Also predicting the price with surge price.
 
 
 Claat Doc: http://tiny.cc/airbnbpricing
+
 Data collected from : http://insideairbnb.com
